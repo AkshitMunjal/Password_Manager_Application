@@ -88,4 +88,8 @@ This project is a Password Manager built using Python and the tkinter library. I
 
 ✔️Click the Generate Password button.
 
-✔️The generated password will be displayed in the password field and copied to the clipboard.
+✔️The generated password will be displayed in the password field and copied to the clipboard.  
+
+
+![image alt](https://github.com/AkshitMunjal/Password_Manager_Application/blob/3aa01d89e3944a615d8aaf68e9366413f4d5e05b/Password_Manager_App.png)
+
